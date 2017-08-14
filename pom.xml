@@ -25,7 +25,7 @@
   </parent>
   <groupId>com.visma.approval</groupId>
   <artifactId>maven-s3-wagon</artifactId>
-  <version>1.2.2-SNAPSHOT</version>
+  <version>1.2.1-visma</version>
   <name>Maven S3 Wagon</name>
   <inceptionYear>2010</inceptionYear>
   <description>
